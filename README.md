@@ -12,6 +12,6 @@ Knowing who is most likely to defect means that a company can prioritise focused
 
 Preventing customer churn is critically important to the telecommunications sector, as the barriers to entry for switching services are so low.
 
- we will examine the following:
+ we will examine here: 
 
-b) customer data with the aim of building and comparing several customer churn prediction models.
+customer data with the aim of building and comparing several customer churn prediction models.
